@@ -2,9 +2,15 @@ body, a {
   background-color: black;
   color: white;
 }
+
+p {
+  font-size: 18px;
+}
+
 header {
   text-align: center;
 }
+
 body header a {
   font-size: 20px;
 }
